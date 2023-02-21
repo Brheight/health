@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8a=fgla@^q-%(9)rd#($%k#b1titg-i27e-i1ujne2w#*5ls3^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['health.tabdevelopers.org', 'www.health.tabdevelopers.org']
+ALLOWED_HOSTS = ['.vercel.app','health.tabdevelopers.org', 'www.health.tabdevelopers.org']
 
 
 # Application definition
